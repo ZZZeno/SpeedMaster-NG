@@ -17,3 +17,5 @@ This project is inspired by SpeedMaster by flyingrub.
 This SpeedMeter based project only added data collection module.
 I know android develop and java develop little, Hence, code convert from Java to Kotlin may take some time.
 Deprecated methods cleaning up is also work in process.
+
+![alt tag](https://raw.githubusercontent.com/ZZZeno/SpeedMeter-NG/master/screen.jpg)
