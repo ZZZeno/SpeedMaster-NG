@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">島風 Run</string>
+
+    <string name="max_speed">最大速力</string>
+    <string name="average_speed">平均速力</string>
+    <string name="distance">距離</string>
+    <string name="time">時間</string>
+    <string name="accuracy">精度</string>
+    <string name="satellite">サテライト</string>
+
+    <string name="waiting_for_fix">GPS信号待ち</string>
+    <string name="gps_disabled">GPSが無効</string>
+    <string name="please_enable_gps">GPS 信号の有効が必要だ</string>
+
+    <string name="running">Route in process…</string>
+    <string name="notification">最大速力 : %1$s, 距離: %2$s.</string>
+
+    <string name="settings">設定</string>
+    <string name="app_info">このアプリついて</string>
+    <string name="pref_auto_average">スピード計算自動停止</string>
+    <string name="pref_auto_average_summary">やめる時間が計算に使わない</string>
+    <string name="pref_miles_per_hour">測定単位</string>
+    <string name="pref_miles_per_hour_summary">mi/hを使う</string>
+
+    <string name="license">ライセンス</string>
+    <string name="donate">寄贈する</string>
+    <string name="donate_summary">null</string>
+    <string name="source_code">GitHub</string>
+    <string name="source_code_summary">ソース　コード</string>
+    <string name="version">島風 Run Version</string>
+
+    <string name="noti_id" translatable="false">島風 Run</string>
+    <string name="github" translatable="false">https://github.com/ZZZeno/SpeedMaster-NG</string>
+    <string name="license_type" translatable="false">GNU General Public License 2</string>
+    <string name="doante_url" translatable="false">null</string>
+</resources>
